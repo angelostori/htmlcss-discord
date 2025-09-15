@@ -145,6 +145,11 @@ header{
     width: 100%;
 }
 
+.central_content button{
+    color: white;
+    background-color: #8ea1e1;
+}
+
 #stars{
     width: 45%;
     margin: 0 auto;
@@ -161,6 +166,10 @@ header{
     flex-wrap: wrap;
     margin-bottom: 20px;
     justify-content: space-between;
+
+    h3{
+        color: #8ea1e1;
+    }
 }
 
 .footer_column{
