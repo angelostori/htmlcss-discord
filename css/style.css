@@ -122,6 +122,34 @@ header{
     height: auto;
 }
 
+/*sezione centrale*/
+.central_section{
+    width: 80%;
+    margin: 40px auto;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+
+    h3{
+        font-size: 22px;
+    }
+}
+
+.central_content{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.central_content img{
+    width: 100%;
+}
+
+#stars{
+    width: 45%;
+    margin: 0 auto;
+}
+
 /*FOOTER*/
 .footer_container{
     width: 80%;
